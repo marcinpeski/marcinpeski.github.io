@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Marcin Pęski"
   avatar           : "profile.png"
-  bio              : "Professor of Economics"
-  location         : "Toronto, CA"
-  employer         : "Department of Economics, University of Toronto"
+  bio              : "Professor of Economics, Department of Economics, University of Toronto"
+  location         : "Toronto, ON"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=qr-Vk7MAAAAJ"
   email            :  "marcin.peski@utoronto.ca"
