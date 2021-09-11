@@ -1,13 +1,76 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Jerome_Renault:
+  name        : "Jérôme Renault"
+  uri         : "https://sites.google.com/site/jrenaultsite/"
+  email       : "jerome.renault@tse-fr.eu"
+  bio         : ""
+  avatar      : ""
+  twitter     : 
+  google_plus : 
+
+Fabien_Gensbittel:
+  name        : "Fabien Gensbittel"
+  uri         : "https://sites.google.com/site/gensbittel/home"
+  email       : "fabien.gensbittel@ut-capitole.fr "
+  bio         : ""
+  avatar      : ""
+  twitter     : 
+  google_plus :
+
+Wojciech_Olszewski:
+  name        : "Wojciech Olszewski"
+  uri         : "https://sites.northwestern.edu/wol737/"
+  email       : "wo@northwestern.edu"
+  bio         : ""
+  avatar      : ""
+  twitter     : 
+  google_plus : 
+
+Thomas_Wiseman:
+  name        : "Thomas Wiseman"
+  uri         : "https://sites.google.com/site/thomaswisemaneconomics/home"
+  email       : "wiseman@austin.utexas.edu"
+  bio         : ""
+  avatar      : ""
+  twitter     : 
+  google_plus : 
+
+Juuso_Toikka:
+  name        : "Juuso Toikka"
+  uri         : "https://bepp.wharton.upenn.edu/profile/toikka/"
+  email       : "toikka@wharton.upenn.edu"
+  bio         : ""
+  avatar      : ""
+  twitter     : 
+  google_plus :
+
+Balazs_Szentes:
+  name        : "Balazs Szentes"
+  uri         : "https://personal.lse.ac.uk/szentes/"
+  email       : "b.szentes@lse.ac.uk"
+  bio         : ""
+  avatar      : ""
+  twitter     : 
+  google_plus :
+
+Jeff_Ely:
+  name        : "Jeffrey Ely"
+  uri         : "https://www.jeffely.com/"
+  email       : "b.szentes@lse.ac.uk"
+  bio         : ""
+  avatar      : ""
+  twitter     : 
+  google_plus :
+
+Francesca_Molinari:
+  name        : "Francesca Molinari"
+  uri         : "https://molinari.economics.cornell.edu/"
+  email       : "fm72@cornell.edu"
+  bio         : ""
+  avatar      : ""
+  twitter     : 
+  google_plus :
 
 Name2 Name2:
   name        : "Name2 Name2"

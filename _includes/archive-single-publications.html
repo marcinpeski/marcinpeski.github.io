@@ -1,0 +1,73 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %} 
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <p>  
+      {% if post.paperurl %}
+        <a href=" {{ post.paperurl }} ">{{ title -}}</a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+      {% assign authorCount = post.authors | size %}
+      {% if authorCount >= 1 %}
+        , with 
+        {% if authorCount == 1 %}
+          {% assign author_code = post.authors | first %}
+          {% assign author = site.data.authors[author_code] %}
+          <a href=" {{ author.uri -}} ">{{ author.name -}}</a>
+        {% else %}
+          {% for author_code in post.authors %}
+            {% assign author = site.data.authors[author_code] %}
+            {% if forloop.first %}
+            {% elsif forloop.last %}
+              and 
+            {% else %}
+              , 
+            {% endif %}
+            <a href=" {{ author.uri }} ">{{ author.name -}}</a>
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+      {% if post.date %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% endif %}
+      {% if post.venue %}
+        , <font style="color:green"><i>{{ post.venue }}</i></font>
+        {% if post.venue_details %}, {{ post.venue_details }}{% endif %}
+      {% endif %}
+        
+         
+    </p>
+    
+    {% if post.read_time %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+
+    {% if post.collection == 'working'%}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.abstract | markdownify }}</p>
+    {% endif %}
+
+  </article>
+</div>
