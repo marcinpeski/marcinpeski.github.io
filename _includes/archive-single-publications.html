@@ -30,7 +30,7 @@
       {% if post.paperurl %}
         <a href=" {{ post.paperurl }} ">{{ title -}}</a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <i>{{ title }}</i>
       {% endif %}
       {% assign authorCount = post.authors | size %}
       {% if authorCount >= 1 %}
