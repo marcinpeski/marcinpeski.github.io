@@ -18,6 +18,24 @@ Fabien_Gensbittel:
   twitter     : 
   google_plus :
 
+Nicolas_Vieille:
+  name        : "Nicolas Vieille"
+  uri         : "https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/vieille-nicolas"
+  email       : "vieille@hec.fr"
+  bio         : ""
+  avatar      : ""
+  twitter     : 
+  google_plus :
+
+Raphael_Levy:
+  name        : "Raphaël Levy"
+  uri         : "https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/levy-raphael"
+  email       : "levyr@hec.fr "
+  bio         : ""
+  avatar      : ""
+  twitter     : 
+  google_plus :
+
 Wojciech_Olszewski:
   name        : "Wojciech Olszewski"
   uri         : "https://sites.northwestern.edu/wol737/"

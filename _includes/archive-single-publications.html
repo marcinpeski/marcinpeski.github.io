@@ -57,9 +57,13 @@
         , <font style="color:green"><i>{{ post.venue }}</i></font>
         {% if post.venue_details %}, {{ post.venue_details }}{% endif %}
       {% endif %}
-        
+      {% if post.comment %}, {{ post.comment }}{% endif %}
+      {% if post.additionaltext %}
+        , <a href=" {{ post.additionalurl }} ">{{ post.additionaltext }}</a>
+      {% endif %}
          
     </p>
+    
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
