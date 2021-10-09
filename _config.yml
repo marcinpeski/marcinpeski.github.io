@@ -184,6 +184,9 @@ collections:
   working:
     output: true
     permalink: /:collection/:path/
+  other:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -210,6 +213,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _other
+  - scope:
+      path: ""
+      type: other
     values:
       layout: single
       author_profile: true
