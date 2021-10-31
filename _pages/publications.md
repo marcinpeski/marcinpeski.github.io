@@ -15,7 +15,15 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% if post.collection == 'publications' %}
       
-      <li>{{ post.subcollection }}{% include archive-single-publications.html %}</li>
+      <li>
+        {{ post.subcollection }}{% include archive-single-publications.html %}
+        <details>
+          <summary>Abstract</summary>
+  
+          {{ post.abstract }}
+        </details>
+
+      </li>
     {% endif %}
   {% endfor %}
 </ol>
