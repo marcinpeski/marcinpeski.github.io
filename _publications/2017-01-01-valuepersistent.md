@@ -11,6 +11,7 @@ higher than under P regardless of the stage game. We show that this defines a co
 venue: 'Econometrica'
 venue_details: 'Vol. 85, No. 6, November 2017, 1921–1948'
 paperurl: 'https://economics.mit.edu/files/10916'
+slidesurl: 'http://marcinpeski.github.io/files/valuepersistentslides.pdf'
 additionaltext:  'supplement'
 additionalurl:  'https://www.econometricsociety.org/sites/default/files/ecta1729-sup-0001-Supplement.pdf'
 googlescholar: 'https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Repeated+games+with+incomplete+information+and+discounting&btnG='

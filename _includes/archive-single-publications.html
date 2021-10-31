@@ -58,7 +58,7 @@
         {% if post.venue_details %}, {{ post.venue_details }}{% endif %}
       {% endif %}
       {% if post.comment %}, {{ post.comment }}{% endif %}
-      {% if post.paperurl %} <a href=" {{ post.slidesurl }} ">, Slides</a>
+      {% if post.slidesurl %}, <a href=" {{ post.slidesurl }} ">Slides</a>
       {% endif %}
       {% if post.additionaltext %}
         , <a href=" {{ post.additionalurl }} ">{{ post.additionaltext }}</a>
