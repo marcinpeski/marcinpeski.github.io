@@ -16,8 +16,7 @@ author_profile: true
     {% if post.collection == 'publications' %}
       
       <li>
-        {{ post.subcollection }}{% include archive-single-publications.html %}
-        <details>
+        {{ post.subcollection }}{% include archive-single-publications.html %} <details>
           <summary>Abstract</summary>
   
           {{ post.abstract }}
