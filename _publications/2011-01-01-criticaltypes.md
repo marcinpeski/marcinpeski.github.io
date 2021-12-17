@@ -1,17 +1,17 @@
 ---
-title: "Hierarchies of belief and interim rationalizability"
+title: "Critical types"
 authors: [Jeff_Ely]
 collection: publications
-permalink: /publication/hbir
+permalink: /publication/critical
 excerpt: 
 field: 'Games with incomplete information' #'Statistical decision theory', 'Games with incomplete information', 'Dynamic Games', Social economics
 date: 2006-01-01
-abstract: 'In games with incomplete information, conventional hierarchies of belief are incomplete as descriptions of the players’ information for the purposes of determining a player’s behavior. We show by example that this is true for a variety of solution concepts. We then investigate what is essential about a player’s information to identify behavior. We specialize to two player games and the solution concept of interim rationalizability. We construct the universal type space for rationalizability and characterize the types in terms of their beliefs. Infinite hierarchies of beliefs over conditional beliefs, which we call ∆-hierarchies, are what turn out to matter. We show that any two types in any two type spaces have the same rationalizable sets in all games if and only if they have the same ∆-hierarchies.'
-venue: 'Theoretical Economics'
-venue_details: '1, 19–65'
-paperurl: 'https://econtheory.org/ojs/index.php/te/article/viewFile/20060019/446'
+abstract: 'How can we know in advance whether simplifying assumptions about beliefs will make a difference in the conclusions of game-theoretic models? We define critical types to be types whose rationalizable correspondence is sensitive to assumptions about arbitrarily high-order beliefs. We show that a type is critical if and only if it exhibits common belief in some non-trivial event. We use this characterization to show that all types in commonly used type spaces are critical. On the other hand, we show that regular types (types that are not critical) are generic, although perhaps inconvenient to use in applications.'
+venue: 'Review of Economic Studies'
+venue_details: 'Vol. 78, No. 3 (July 2011), pp. 907-937 (31 pages)'
+paperurl: 'https://docs.wixstatic.com/ugd/e6b7cb_2b33f69d16cc4686b51c9229b76ca60d.pdf'
 additionaltext: 'the proof of the Claim from page 52'
 additionalurl: 'http://marcinpeski.github.io/files/puts.pdf'
-googlescholar: 'https://scholar.google.ca/scholar?cites=15767665201680836928&as_sdt=2005&sciodt=0,5&hl=en'
+googlescholar: 
 citation: 
 ---
