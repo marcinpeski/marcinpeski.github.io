@@ -9,9 +9,9 @@ field: 'Learning in Games' #'Statistical decision theory', 'Games with incomplet
 date: 2021-08-01
 abstract: 'We consider social learning in a changing world. Each period, new-born agents observe a ﬁnite sample of past actions and can acquire a signal about the current state before acting. When the state of the world is close to persistent, a consensus in which almost all the population
 chooses the same action typically emerges. The consensus action is not perfectly correlated with the state though, because the society exhibits some inertia whenever the state changes. The possibility that the state changes drastically limits the value of social learning. Indeed, when signals are too precise – in particular, with perfect signals – actions within a sample are too correlated and even observing unanimous samples is not  informative enough to allow herding on past behavior.'
-venue:
+venue: arXiv:2201.02122
 venue_details:
-paperurl: 
+paperurl: http://arxiv.org/abs/2201.02122
 citation: 
 ---
 Here should be abstract
