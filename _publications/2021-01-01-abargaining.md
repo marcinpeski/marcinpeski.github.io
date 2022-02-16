@@ -1,7 +1,6 @@
 ---
 title: "Bargaining with Mechanisms"
 collection: "publications"
-subcollection: 'publications'
 permalink: /publications/2021-10-01-abargaining
 excerpt: 
 field: 'Dynamic Games' #'Statistical decision theory', 'Games with incomplete information', 'Dynamic Games', 'Social economics'
