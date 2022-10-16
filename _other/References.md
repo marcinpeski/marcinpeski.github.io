@@ -8,8 +8,6 @@ location: "Toronto, Canada"
 url: "https://sites.google.com/site/uoftpensions/home"
 ---
 
-1. Read the following <a href=''>instructions</a>.
+Read the following <a href='http://marcinpeski.github.io/files/Instructions.pdf'>instructions</a>.
 
-{% link files/Instructions.pdf %}
-
-2. <a href='https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOeFoLPT759DhIrqhMYlbDNUOUIzUTdBSklYQkdUWlZJMEMxRjhUWjdFNy4u'>Fill this form.</a>
+Fill this <a href='https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOeFoLPT759DhIrqhMYlbDNUOUIzUTdBSklYQkdUWlZJMEMxRjhUWjdFNy4u'>form.</a>
