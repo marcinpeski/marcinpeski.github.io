@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of 2022 changes to the Student Interest Programs Policy"
+title: "Lotery-based admissions to TDSB special high schools"
 collection: other
 permalink: /other/SIPP
 venue: "University of Toronto"
