@@ -1,5 +1,5 @@
 ---
-title: "Lottery-based admissions to TDSB special high schools"
+title: "TDSB lottery"
 collection: other
 permalink: /other/SIPP
 venue: "University of Toronto"
