@@ -12,6 +12,7 @@ chooses the same action typically emerges. The consensus action is not perfectly
 venue: arXiv:2201.02122
 venue_details:
 paperurl: http://arxiv.org/abs/2201.02122
+slidesurl: 'http://marcinpeski.github.io/files/NAMES2023.pdf'
 citation: 
 ---
 Here should be abstract
