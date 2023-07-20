@@ -1,5 +1,5 @@
 ---
-title: "Bargaining with Mechanisms and Two-Sided Incomplete Information"
+title: "Bargaining with Mechanisms and Two Sided Incomplete Information"
 collection: "working"
 subcollection: 'working'
 permalink: /working/2023-07-01-bargaining2sided
