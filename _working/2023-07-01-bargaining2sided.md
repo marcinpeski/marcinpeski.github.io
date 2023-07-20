@@ -4,7 +4,7 @@ collection: "working"
 subcollection: 'working'
 permalink: /working/2023-07-01-bargaining2sided
 excerpt: 
-field: 'Games with incomplete information', 'Dynamic Games' #'Social economics' 'Statistical decision theory', 'Social economics'
+field: 'Dynamic Games' #'Social economics', 'Games with incomplete information',  'Statistical decision theory', 'Social economics'
 date: 2023-07-01
 abstract: "We study a model of random proposer bargaining over a single good with transfers. Players offer arbirtrary mechanisms. Each player has two (private valuation) types. We provide non-trivial payoff bounds that depend on the bargaining strngth of the player. For a large set of initial beliefs, the equilibrium payoffs are unique."
 venue:
