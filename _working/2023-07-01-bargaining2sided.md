@@ -4,7 +4,7 @@ collection: "working"
 subcollection: 'working'
 permalink: /working/2023-07-01-bargaining2sided
 excerpt: 
-field: 'Dynamic Games', 'Games with incomplete information' #'Social economics', 'Games with incomplete information',  'Statistical decision theory', 'Social economics'
+field: 'Dynamic Games' #'Social economics', 'Games with incomplete information',  'Statistical decision theory', 'Social economics'
 date: 2023-07-01
 abstract: "Abstract. I study a random proposer bargaining over a single good with transfers. When given an opportunity to make a proposal, players may offer an arbitrary mechanism to determine the final allocation. When there are two types for each player, I show the ex ante expected equilibrium payoffs are unique."
 venue:
