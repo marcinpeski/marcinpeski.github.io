@@ -2,11 +2,11 @@
 title: "Bargaining with Mechanisms and Two Sided Incomplete Information"
 collection: "working"
 subcollection: 'working'
-permalink: /working/2023-07-01-bargaining2sided
+permalink: /working/2024-01-31-bargaining2sided
 excerpt: 
 field: 'Dynamic Games' #'Social economics', 'Games with incomplete information',  'Statistical decision theory', 'Social economics'
 date: 2023-07-01
-abstract: "Abstract. I study a random proposer bargaining over a single good with transfers. When given an opportunity to make a proposal, players may offer an arbitrary mechanism to determine the final allocation. When there are two types for each player, I show the ex ante expected equilibrium payoffs are unique."
+abstract: "I study a random proposer multi-round bargaining over a single good with transfers. In each round, a proposer may offer an arbitrary mechanism to determine the final allocation. If the offer is accepted, it is implemented and the game ends; otherwise, the next round commences. When there is a two-sided incomplete information with binary types for each player, the ex ante expected equilibrium payoffs are unique."
 venue:
 venue_details:
 paperurl: 'http://marcinpeski.github.io/files/mechanismsTwoSided.pdf'
