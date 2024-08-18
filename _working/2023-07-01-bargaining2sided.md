@@ -10,7 +10,7 @@ abstract: "I study a random proposer multi-round bargaining over a single good w
 venue:
 venue_details:
 paperurl: 'http://marcinpeski.github.io/files/mechanismsTwoSided.pdf'
-slidesurl: 'http://marcinpeski.github.io/files/BwM_slides.pdf'
+slidesurl: 'http://marcinpeski.github.io/files/BwM_short.pdf'
 citation: 
 ---
 Here should be abstract
