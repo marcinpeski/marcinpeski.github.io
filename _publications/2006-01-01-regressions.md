@@ -1,6 +1,6 @@
 ---
 title: "Generalization of a Result on \"Regressions, Short and Long\" "
-authors: [Francesca Molinari]
+authors: [Francesca_Molinari]
 collection: publications
 permalink: /publication/regressions
 excerpt: 
