@@ -11,6 +11,6 @@ abstract: "A researcher wants to ask a decision-maker about a belief related to 
 venue:
 venue_details:
 paperurl: 'http://marcinpeski.github.io/files/Non_distortionary_belief_elicitation.pdf'
-slidesurl: 
+slidesurl: 'http://marcinpeski.github.io/files/Non_distortionary_belief_elicitation_slides.pdf'
 citation: 
 ---
